@@ -20,7 +20,7 @@
                     C = A + B;
                     Console.WriteLine(C);
                 }
-                else if (D == "+")
+                else if (D == "-")
                 {
                     C = A - B;
                     Console.WriteLine(C);
